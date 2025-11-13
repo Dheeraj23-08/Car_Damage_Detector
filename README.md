@@ -26,3 +26,5 @@ The model is trained on third quarter front and rare view hence the picture shou
 2. Run the streamlit app:
    ```commandline
    streamlit run app.py
+
+🔗 **Live Demo:** [Click here to open](https://cardamagedetector-dheeraj-thalour.streamlit.app/)
